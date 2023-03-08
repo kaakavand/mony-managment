@@ -5,11 +5,13 @@
   transition: all ease 0.3s;
   transition: all ease 0.3s;
   outline: none;
-  font-family: "iranyekan"  !important;
+  font-family: Vazirmatn, sans-serif !important;
 }
 
 
 body {
+  font-family: Vazirmatn, sans-serif !important;
+
   height: 100vh;
   display: flex;
   align-items: center;
